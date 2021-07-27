@@ -1,17 +1,16 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Marine971/Marine971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I'ma a student Developer bases in _Paris_. I love teach web development and all kinds of other things online and I'm ready for discussions and making new projects.
+
+* 💼 Currently work on Javascript project
+* ⚡️ Fun Facts : I love FOOD 🌭 & MOTORBIKE 🏍
+* 📱  Contact me on  [Linkedin](https://www.linkedin.com/in/marinedacalor/) !
+
+
+## MY SKILLS
+
 ![Web Developper](https://user-images.githubusercontent.com/60185510/127210262-267f5bd0-4564-4133-a220-2aaac455aa4a.jpg)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+

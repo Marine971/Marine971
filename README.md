@@ -10,7 +10,7 @@ I'm a a student Developer bases in Paris. I love teach web development and all k
 
 ## MY SKILLS
 
-![web developer](https://github.com/Marine971/Marine971/blob/main/web%20developer.jpg?raw=true)
+![web developer](https://github.com/Marine971/Marine971/blob/main/web%20developer.png?raw=true)
 
 
 
